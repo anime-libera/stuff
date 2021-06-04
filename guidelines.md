@@ -1,3 +1,12 @@
+**NOTE 3 June 2021**
+
+##anime on Libera.Chat is a new channel that reunites freenode's #anime and ##anime. Ops from both channels agreed to share a home on Libera with these conditions:
+- Ops from both communities will be ops in the new channel (see list further below)
+- We'll start with #anime's guidelines.md but expect to iterate on it over time
+- We'll revisit aspects of how we moderate and work on getting more community input
+
+Notably, we're not carrying bans over from the other network. There'll still be boundaries, but we're feeling out how they'll change compared to #anime on freenode. Please let us know if you have input!
+
 # Guidelines
 
 Be respectful and courteous! That's the root of it. Some examples of respectful and courteous behavior include:
@@ -8,7 +17,7 @@ Be respectful and courteous! That's the root of it. Some examples of respectful 
 * Not using slurs. Aside from being unwelcoming, using them puts the channel on a slippery slope to degenerating into another internet shithole
 * Stopping or moving heated discussions when asked (this happens a lot with religion or politics). Give ##anime-offtopic or PMs a try
 
-This list is far from exhaustive, but the general theme is "don't be a dick". If you feel someone is acting out, feel free to ping an op (or all of us by saying "!ops"). We'll generally try to communicate before doing anything, but if you feel you are wrongly quieted or banned, head over to ##anime-jail to chat with the us. Keep in mind that moderation is heavily contextual and highly discretionary, and that we can only moderate what we see so you may have to ping us (!ops).
+This list is far from exhaustive, but the general theme is "don't be a dick". If you feel someone is acting out, feel free to ping an op (or all of us by saying "!ops"). We'll generally try to communicate before doing anything, but if you feel you are wrongly quieted or banned, head over to ##anime-prison (**NOTE 3 June 2021** this will change) to chat with the us. Keep in mind that moderation is heavily contextual and highly discretionary, and that we can only moderate what we see so you may have to ping us (!ops).
 
 Finally, a couple notes around moderation in the channel:
 * Please don't gossip about users who got moderated. We're often privy to additional context that you haven't seen, and talking about users without that context could unfairly stain their reputation (or ours) and generally sullies the mood. If you have concerns, please share them in ##anime-jail
@@ -19,25 +28,28 @@ Finally, a couple notes around moderation in the channel:
 We have them.
 
 * amigojapan
+* Aurora_v_kosmose
 * davic
+* dfch
 * emmeka
+* KatrinValerie
 * mathu
 * Nanobot
-* RedPhoenix
+* Sadale
 * Smeef
 * theholyduck
 * Vohveli
 
-There is no single lead op. Each op has the authority to use their discretion on any matters they feel need immediate attention. Ops will often discuss issues among themselves and come to longer-term decisions as a group.
-
-Technically Luke-Jr has +F so he can take over the channel and there's nothing we can do about that, but it's k.
+There is no single lead op. Each op has the authority to use their discretion on any matters they feel need immediate attention. Ops will often discuss issues among themselves and come to longer-term decisions as a group. Nanobot has +F, but that's just because someone has to.
 
 | [<img src="https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325" width="150" title="A typical op"/>](https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325) | A typical op |
 |-|-|
 
-### \#\#anime-jail
+### Ops channel
 
-We have it.
+**NOTE 3 June 2021** Historically we've used a channel called ##anime-jail which was meant as a joke but likely stoked tension. You can use PMs or join ##anime-prison on libera to chat with us outside the main channel for now but this is going to change.
+
+We have one.
 
 It's where you go if you want to get ops' attention. This channel has +z set, which means only ops can read your messages (but everyone can read ops' messages). You can use this channel to appeal a ban or quiet, to report misbehavior in #anime, to voice concerns about how the channel is being run, or to re-raise an issue if you feel it wasn't covered well enough the first time. Bring logs if you can!
 
@@ -46,7 +58,6 @@ Only join this channel if you have something to say and please part when you're 
 # Bots
 
 We have them.
-
 
 * [ImoutoBot](https://github.com/freenode-anime/stuff/blob/master/bots.md#imoutobot) (owned by Nanobot) controls anime/manga of the week, maintains a quote database for users and announces their joining to the channel with a random one, searches for anime with !a, has !seen to show when a user was last present, has "!later tell" to deliver messages to users the next time they appear, and !c for calculator/conversions/answers.
 * [Suzuka](https://github.com/freenode-anime/stuff/blob/master/bots.md#suzuka) (owned by davic) serves as a robotic ops assistant that auto-quiets spammers and redirects people who join too much (spam or broken connection) to ##anime-jail
