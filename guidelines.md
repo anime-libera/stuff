@@ -23,6 +23,10 @@ Finally, a couple notes around moderation in the channel:
 * Please don't gossip about users who got moderated. We're often privy to additional context that you haven't seen, and talking about users without that context could unfairly stain their reputation (or ours) and generally sullies the mood. If you have concerns, please share them in ##anime-jail
 * Please don't try to back-seat moderate or clarify things on our behalf. We'd like to control the tone we set in the channel, so apart from reiterating content from the guidelines please defer to us
 
+See also:
+- [Libera network policies](https://libera.chat/policies/#:~:text=content%20and%20behaviour-,Libera.,of%20antisocial%20behaviour%20are%20forbidden.) (notably, "heavy media file trading" i.e. piracy is disallowed)
+- [Libera guidelines](https://libera.chat/guidelines/)
+
 # Ops
 
 We have them.
