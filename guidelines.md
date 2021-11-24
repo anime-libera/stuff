@@ -64,8 +64,16 @@ Only join this channel if you have something to say and please part when you're 
 We have them.
 
 * [ImoutoBot](https://github.com/freenode-anime/stuff/blob/master/bots.md#imoutobot) (owned by Nanobot) controls anime/manga of the week, maintains a quote database for users and announces their joining to the channel with a random one, searches for anime with !a, has !seen to show when a user was last present, has "!later tell" to deliver messages to users the next time they appear, and !c for calculator/conversions/answers.
-* [Suzuka](https://github.com/freenode-anime/stuff/blob/master/bots.md#suzuka) (owned by davic) serves as a robotic ops assistant that auto-quiets spammers and redirects people who join too much (spam or broken connection) to ##anime-jail
+* [Suzuka](https://github.com/freenode-anime/stuff/blob/master/bots.md#suzuka) (owned by davic) serves as a robotic ops assistant that auto-quiets spammers and redirects people who join too much (spam or broken connection) to ##anime-help
 * [Enju](https://github.com/freenode-anime/stuff/blob/master/bots.md#enju) (owned by davic) posts titles from links in the channel, searches searx with _g, currency etc.
 
 Want to bring your bot into the channel? We probably don't want you to! Feel free to ask the ops in ##anime-jail if you feel it could offer something good to the channel, but we generally say no because people abuse bots.
 
+# Automod Actions
+
+As a countermeasurement against spam, Suzuka performs op actions automatically, which includes the following:
+
+* Temporarily quieting the users who post multiple messages rapidly. The quiet would last for a few minutes.
+* Temporarily banning the users who join the channels multiple times rapidly. The ban would last for an hour.
+
+If you got quieted or banned for no apparent reason, don't worry. Chances are that it's an automod action. In case it happens to you, please wait patiently and you'll be able to talk in the channel again. Alternatively, you could ask for unquiet/unban in ##anime-help. Assuming that you're not spamming intentionally, you will likely to get unquieted/unbanned if there's any op being available.
