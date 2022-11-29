@@ -31,7 +31,6 @@ See also:
 
 We have them.
 
-* amigojapan
 * Aurora_v_kosmose
 * davic
 * dfch
