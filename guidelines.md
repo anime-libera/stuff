@@ -48,11 +48,9 @@ There is no single lead op. Each op has the authority to use their discretion on
 | [<img src="https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325" width="150" title="A typical op"/>](https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325) | A typical op |
 |-|-|
 
-### Ops channel
+### \#\#anime-help
 
-**NOTE 3 June 2021** Historically we've used a channel called ##anime-jail which was meant as a joke but likely stoked tension. You can use PMs or join ##anime-prison on libera to chat with us outside the main channel for now but this is going to change.
-
-We have one.
+We have it.
 
 It's where you go if you want to get ops' attention. This channel has +z set, which means only ops can read your messages (but everyone can read ops' messages). You can use this channel to appeal a ban or quiet, to report misbehavior in #anime, to voice concerns about how the channel is being run, or to re-raise an issue if you feel it wasn't covered well enough the first time. Bring logs if you can!
 
@@ -66,7 +64,7 @@ We have them.
 * [Suzuka](https://github.com/freenode-anime/stuff/blob/master/bots.md#suzuka) (owned by davic) serves as a robotic ops assistant that auto-quiets spammers and redirects people who join too much (spam or broken connection) to ##anime-help
 * [Enju](https://github.com/freenode-anime/stuff/blob/master/bots.md#enju) (owned by davic) posts titles from links in the channel, searches searx with _g, currency etc.
 
-Want to bring your bot into the channel? We probably don't want you to! Feel free to ask the ops in ##anime-jail if you feel it could offer something good to the channel, but we generally say no because people abuse bots.
+Want to bring your bot into the channel? We probably don't want you to! Feel free to ask the ops in ##anime-help if you feel it could offer something good to the channel, but we generally say no because people abuse bots.
 
 # Automod Actions
 
