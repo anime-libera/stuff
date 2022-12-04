@@ -52,7 +52,7 @@ There is no single lead op. Each op has the authority to use their discretion on
 
 We have it.
 
-It's where you go if you want to get ops' attention. This channel has +z set, which means only ops can read your messages (but everyone can read ops' messages). You can use this channel to appeal a ban or quiet, to report misbehavior in #anime, to voice concerns about how the channel is being run, or to re-raise an issue if you feel it wasn't covered well enough the first time. Bring logs if you can!
+It's where you go if you want to get ops' attention. This channel has +z set, which means only ops can read your messages (but everyone can read ops' messages). You can use this channel to appeal a ban or quiet, to report misbehavior in ##anime, to voice concerns about how the channel is being run, or to re-raise an issue if you feel it wasn't covered well enough the first time. Bring logs if you can!
 
 Only join this channel if you have something to say and please part when you're done; we want people not to feel like there are spectators when they're chatting with us.
 
