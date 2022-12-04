@@ -17,10 +17,10 @@ Be respectful and courteous! That's the root of it. Some examples of respectful 
 * Not using slurs. Aside from being unwelcoming, using them puts the channel on a slippery slope to degenerating into another internet shithole
 * Stopping or moving heated discussions when asked (this happens a lot with religion or politics). Give ##anime-offtopic or PMs a try
 
-This list is far from exhaustive, but the general theme is "don't be a dick". If you feel someone is acting out, feel free to ping an op (or all of us by saying "!ops"). We'll generally try to communicate before doing anything, but if you feel you are wrongly quieted or banned, head over to ##anime-prison (**NOTE 3 June 2021** this will change) to chat with the us. Keep in mind that moderation is heavily contextual and highly discretionary, and that we can only moderate what we see so you may have to ping us (!ops).
+This list is far from exhaustive, but the general theme is "don't be a dick". If you feel someone is acting out, feel free to ping an op (or all of us by saying "!ops"). We'll generally try to communicate before doing anything, but if you feel you are wrongly quieted or banned, head over to ##anime-help to chat with the us. Keep in mind that moderation is heavily contextual and highly discretionary, and that we can only moderate what we see so you may have to ping us (!ops).
 
 Finally, a couple notes around moderation in the channel:
-* Please don't gossip about users who got moderated. We're often privy to additional context that you haven't seen, and talking about users without that context could unfairly stain their reputation (or ours) and generally sullies the mood. If you have concerns, please share them in ##anime-jail
+* Please don't gossip about users who got moderated. We're often privy to additional context that you haven't seen, and talking about users without that context could unfairly stain their reputation (or ours) and generally sullies the mood. If you have concerns, please share them in ##anime-help
 * Please don't try to back-seat moderate or clarify things on our behalf. We'd like to control the tone we set in the channel, so apart from reiterating content from the guidelines please defer to us
 
 See also:
