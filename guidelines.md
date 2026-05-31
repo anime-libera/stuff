@@ -17,6 +17,7 @@ Be respectful and courteous! That's the root of it. Some examples of respectful 
 * Not abusing bots. Don't add/delete random quotes from other users, and don't flood the channel by using a ton of bot commands.
 * Not using slurs. Aside from being unwelcoming, using them puts the channel on a slippery slope to degenerating into another internet shithole
 * Stopping or moving heated/uncomfortable discussions when asked (this happens a lot with religion, politics, and NSFW discussions). Give ##anime-offtopic or PMs a try
+* Not performing public logging. If you are stupid enough to dump our chat logs onto some random cloud server (e.g. sending it to a cloud-based LLM provider, sending it to Discord, etc.), you're leaking our data and this is not welcomed.
 
 This list is far from exhaustive, but the general theme is "don't be a dick". If you feel someone is acting out, feel free to ping an op (or all of us by saying "!ops"). We'll generally try to communicate before doing anything, but if you feel you are wrongly quieted or banned, head over to ##anime-help to chat with the us. Keep in mind that moderation is heavily contextual and highly discretionary, and that we can only moderate what we see so you may have to ping us (!ops).
 
@@ -32,21 +33,19 @@ See also:
 
 We have them.
 
-* Aurora_v_kosmose
 * davic
 * dfch
 * emmeka
-* KatrinValerie
 * mathu
 * Nanobot
 * Sadale
 * Smeef
-* theholyduck
+* Terminus
 * Vohveli
 
-There is no single lead op. Each op has the authority to use their discretion on any matters they feel need immediate attention. Ops will often discuss issues among themselves and come to longer-term decisions as a group. Nanobot has +F, but that's just because someone has to.
+There is no single lead op. Each op has the authority to use their discretion on any matters they feel need immediate attention. Ops will often discuss issues among themselves and come to longer-term decisions as a group. Sadale has +F, but that's just because someone has to.
 
-| [<img src="https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325" width="150" title="A typical op"/>](https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325) | A typical op |
+| ![image of an op](./op.jpg) | A typical op |
 |-|-|
 
 ### \#\#anime-help
@@ -64,6 +63,7 @@ We have them.
 * [ImoutoBot](https://github.com/freenode-anime/stuff/blob/master/bots.md#imoutobot) (owned by Nanobot) controls anime/manga of the week, maintains a quote database for users and announces their joining to the channel with a random one, searches for anime with !a, has !seen to show when a user was last present, has "!later tell" to deliver messages to users the next time they appear, and !c for calculator/conversions/answers.
 * [Suzuka](https://github.com/freenode-anime/stuff/blob/master/bots.md#suzuka) (owned by davic) serves as a robotic ops assistant that auto-quiets spammers and redirects people who join too much (spam or broken connection) to ##anime-help
 * [Enju](https://github.com/freenode-anime/stuff/blob/master/bots.md#enju) (owned by davic) posts titles from links in the channel, searches searx with _g, currency etc.
+* Kagura (owned by dfch) Perform robotic ops until davic fixes his buggy Suzuka
 
 Want to bring your bot into the channel? We probably don't want you to! Feel free to ask the ops in ##anime-help if you feel it could offer something good to the channel, but we generally say no because people abuse bots.
 
